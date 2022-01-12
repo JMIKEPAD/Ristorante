@@ -1,0 +1,24 @@
+h1{
+    color: crimson;
+    background-color: deepskyblue;
+    width: 50%;
+    overflow-x: scroll;
+    padding: 20px;
+    margin: 20px;
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 20px 10px 20px 5px;
+    margin: 20px 10px; */
+    /* min-width: 200px;
+    max-width: 470px; */
+    /* height: 40px; */
+}
+
+.header-subtitle{
+    color: darkorange;
+}
+#pippo {
+    color: darkred;
+}
