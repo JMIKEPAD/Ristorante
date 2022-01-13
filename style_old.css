@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,700;1,200&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1{
+    color: crimson;
+    background-color: deepskyblue;
+    width: 470px;
+    height: 200px;
+    /* overflow: scroll; */
+    padding: 20px;
+    margin: 20px;
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 20px 10px 20px 5px;
+    margin: 20px 10px; */
+    /* min-width: 200px;
+    max-width: 470px; */
+    /* height: 40px; */
+    border: solid 2px purple;
+    /* border-style: solid ;
+    border-color: darkblue;
+    border-width: 20px */
+    border-radius: 20px ;
+    background-image: url(./images/piatto1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.header-subtitle{
+    color: darkorange;
+}
+#pippo {
+    color: darkred;
+}
+.navlink {
+    /* display: block; */
+    display: inline-block;
+    background-color: red;
+    width: 300px;
+}
+.t1{
+    background-color: rosybrown;
+    margin: 0px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    height: 100px;
+}
+.t2{
+    background-color: rgb(255, 5, 5);
+    margin: 0px;
+    height: 100px;
+}
+.t3{
+    background-color: rgb(120, 1, 255);
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    /* left: 0px; */
+    right: 0px;
+    height: 100px;
+}
+.t4{
+    background-color: rgb(78, 0, 0);
+    margin: 0px;
+    height: 100px;
+}
+.t5{
+    background-color: rgb(0, 130, 170);
+    margin: 0px;
+    height: 100px;
+}
+.t6{
+    background-color: rgb(91, 148, 1);
+    margin: 0px;
+    height: 100px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+}
+.t7{
+    background-color: rgb(255, 208, 0);
+    margin: 0px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+
+}
+.t8{
+    background-color: rgb(255, 0, 100);
+    margin: 0px;
+    height: 100px;
+}
+.t9{
+    background-color: rgb(51, 255, 0);
+    margin: 0px;
+    height: 100px;
+}
+.t10{
+    background-color: rgb(89, 0, 255);
+    margin: 0px;
+    height: 100px;
+}
+.t7container{
+    background-color: seagreen;
+    height: 200px;
+    position: relative;
+}
